@@ -46,6 +46,10 @@ The file became : M (Modified in branch, which was already comitted)
 Now again add and commit with message "Second commit with modified abc.txt"
 
 
+git clone clones the repository into our local current folder 
+as a new folder with the same name as the repository name, with git initialized:
+
+git clone https://github.com/monicag-gupta/Proj1.git
 
 
 
