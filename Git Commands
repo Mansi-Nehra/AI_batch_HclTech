@@ -75,6 +75,9 @@ git branch
 
 
 
+push a branch to remote:
+git push -u origin main
+
 
 
 
