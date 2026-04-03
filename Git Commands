@@ -66,6 +66,9 @@ git commit -m "Hello.html changed"
 
 
 
+Know about Remote:
+git remote –v
+
 
 
 
